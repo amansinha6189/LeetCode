@@ -3,6 +3,7 @@
  *
  * [1] Two Sum
  * hi my name is aman sinha
+ * this is leetcode ques
  */
 
 // @lc code=start
